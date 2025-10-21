@@ -8,6 +8,12 @@ Based on the MXToolbox analysis, this email appears legitimate with proper domai
 However, if any of these records were missing or invalid, it would indicate that the email may be suspicious, and further investigation would be required.
 
 
+sample phishing mail link:https://github.com/rf-peixoto/phishing_pot.git
+
+navigation path [for this example phishing mail]:  phishing_pot > email> sample-1001.eml
+
+MXToolbox link: https://mxtoolbox.com/EmailHeaders.aspx
+
 ### here some snippets, to expalain the sample phishing mail details
 
 ---
