@@ -14,7 +14,7 @@ However, if any of these records were missing or invalid, it would indicate that
 <img width="1359" height="679" alt="IMG_20251021_173014" src="https://github.com/user-attachments/assets/6cc03566-cc1b-4d84-9480-841a4c522bbf" />
 
 
-<img width="1366" height="685"<img width="1366" height="692" alt="IMG_20251021_172951" src="https://github.com/user-attachments/assets/f19325f9-dd3e-4bc3-8268-0aacf6ff18e5" />
+<img width="1366" height="692" alt="IMG_20251021_172951" src="https://github.com/user-attachments/assets/f19325f9-dd3e-4bc3-8268-0aacf6ff18e5" />
 
 
 <img width="1366" height="685" alt="IMG_20251021_172933" src="https://github.com/user-attachments/assets/8101429c-e519-4f83-8c40-302c0b16e649" />
