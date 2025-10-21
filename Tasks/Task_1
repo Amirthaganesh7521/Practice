@@ -1,1 +1,10 @@
+TASK-1
+Scan local Network for Open Ports
+
+This task is aimed at discovering open ports on devices within a local network to understand network exposure.
+
+Tools Used
+ Nmap: A network scanning tool to discover open ports.
+
+
 
